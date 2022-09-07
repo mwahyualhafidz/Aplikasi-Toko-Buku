@@ -1,2 +1,2 @@
 # Aplikasi-Toko-Buku
-Lengkap dengan kasir dan stok barang
+Kasir dan Stok Barang
